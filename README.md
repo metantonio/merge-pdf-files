@@ -1,4 +1,4 @@
-Está hecho pensando en usuarios de nivel medio.
+Está hecho pensando en usuarios de nivel básico.
 
 Descargar los archivos en una misma carpeta.
 
