@@ -1,6 +1,6 @@
 <!-- Sección portada del repositorio -->
 <a href="#">
-    <img src="./img/portada.jpg" />
+    <img src="./portada.jpg" />
 </a>
 
 Está hecho pensando en usuarios de nivel básico.
