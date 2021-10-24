@@ -1,3 +1,8 @@
+<!-- Sección portada del repositorio -->
+<a href="#">
+    <img src="./img/portada.jpg" />
+</a>
+
 Está hecho pensando en usuarios de nivel básico.
 
 Descargar los archivos en una misma carpeta.
